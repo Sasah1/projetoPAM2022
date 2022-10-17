@@ -33,6 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   String media = "";
   String status = "";
   String teste = "";
+  String teste2 = "";
 
   @override
   Widget build(BuildContext context) {
